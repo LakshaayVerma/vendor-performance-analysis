@@ -10,10 +10,9 @@ The project concludes with a professionally structured report summarizing key fi
 ---
 
 ## 📂 Project Structure  
-vendor-performance-analysis
+'''vendor-performance-analysis
 │
 ├── data/
-
 │ └── vendor_sales_summary.csv
 ├── notebooks/
 │ ├── Exploratory Data Analysis.ipynb
@@ -25,7 +24,7 @@ vendor-performance-analysis
 │ └── vendor_performance.pbix
 ├── reports/
 │ └── Vendor Performance Report.pdf
-└── README.md
+└── README.md'''
 ---
 
 ## 🛠️ Tech Stack  
