@@ -10,21 +10,23 @@ The project concludes with a professionally structured report summarizing key fi
 ---
 
 ## 📂 Project Structure  
-'''vendor-performance-analysis
+```
+vendor-performance-analysis
 │
 ├── data/
-│ └── vendor_sales_summary.csv
+│   └── vendor_sales_summary.csv
 ├── notebooks/
-│ ├── Exploratory Data Analysis.ipynb
-│ └── Vendor Performance Analysis.ipynb
+│   ├── Exploratory Data Analysis.ipynb
+│   └── Vendor Performance Analysis.ipynb
 ├── scripts/
-│ ├── get_vendor_summary.py
-│ └── ingestion_db.py
+│   ├── get_vendor_summary.py
+│   └── ingestion_db.py
 ├── dashboard/
-│ └── vendor_performance.pbix
+│   └── vendor_performance.pbix
 ├── reports/
-│ └── Vendor Performance Report.pdf
-└── README.md'''
+│   └── Vendor Performance Report.pdf
+└── README.md
+```
 ---
 
 ## 🛠️ Tech Stack  
