@@ -13,6 +13,7 @@ The project concludes with a professionally structured report summarizing key fi
 vendor-performance-analysis
 │
 ├── data/
+
 │ └── vendor_sales_summary.csv
 ├── notebooks/
 │ ├── Exploratory Data Analysis.ipynb
